@@ -35,3 +35,18 @@ h1 {
   box-shadow: 0 3px 21px 0px rgba(0, 0, 0, 0.1);
 
 }
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 90px;
+}
+
+li {
+  list-style: none;
+  
+}
+.list {
+  color: rgb(66, 39, 39);
+  font-size: larger;
+}
